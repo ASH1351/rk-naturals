@@ -1,0 +1,8 @@
+# RK Naturals Robots.txt
+User-agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /order-confirmation/
+Disallow: /account
+
+Sitemap: https://rknaturals.in/sitemap.xml
